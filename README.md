@@ -38,7 +38,10 @@
 #### 🔹 [VitalSync – AI-Powered Healthcare Platform](https://github.com/Code-master-pragyan/vitalsync)
 > An intelligent web platform that assists users in analyzing symptoms and checking their health status using AI. Built with React, Node.js, MongoDB, and Gemini API.
 
-#### 🔹 [MindMitra – AI Mental Health Chatbot](https://github.com/Code-master-pragyan/mindmitra)
+#### 🔹 [UrbanEscape](https://github.com/Code-master-pragyan/urbanescape)
+> An intelligent hotel, apartment, resort listing site using AI, EJS, Node.js, MongoDB.
+
+#### 🔹 [MindMitra – AI Mental Health Chatbot](https://github.com/Code-master-pragyan/GSC-first-attempt)
 > Gemini-powered chatbot that supports users with mental health detection and support. Includes voice chat, responsive UI, and intelligent Q&A based on FAQ dataset.
 
 #### 🔹 [Disaster Alert System](https://github.com/Code-master-pragyan/disaster-alert)
