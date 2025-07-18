@@ -1,60 +1,69 @@
-<h1 align="center">Hi 👋, I'm Pragyan Lahkar</h1>
-<h3 align="center">An aspiring full-stack developer from India 🇮🇳</h3>
+<h1 align="center">Hey 👋, I'm Pragyan Lahkar</h1>
+<h3 align="center">🚀 AI-Powered Full Stack Developer from India 🇮🇳</h3>
 
-<img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
-
-- 🔭 I’m currently working on: **AI Chatbot (MindMitra)** & **Disaster Alert System**
-- 🌱 I’m learning **React Native**, **System Design**, and **Open Source Contributions**
-- 👯 I’m looking to collaborate on **AI tools, full-stack projects, and hackathons**
-- 📫 How to reach me: [LinkedIn](https://linkedin.com/in/YOUR-LINK) | Email: your@email.com
-- ⚡ Fun fact: I love building things that make life easier and smarter ✨
-
----
-
-### 🛠️ Tech Stack
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb)
-![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express)
-
----
-
-### 📌 Pinned Projects
-Here are some projects I’m proud of:
-
-- 🔹 [MindMitra – AI Mental Health Chatbot](https://github.com/YOUR_REPO)
-- 🔹 [Novasync – Smart Healthcare AI Website](https://github.com/YOUR_REPO)
-- 🔹 [Disaster Alert System](https://github.com/YOUR_REPO)
-- 🔹 [Portfolio Website](https://github.com/YOUR_REPO)
-- 🔹 [Expense Tracker](https://github.com/YOUR_REPO)
-
----
-
-### 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Code-master-pragyan&theme=react&date_format=M%20j%5B%2C%20Y%5D" alt="Streak Stats" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Code-master-pragyan&layout=compact&theme=react" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00BFFF&lines=Full-Stack+Developer;AI+Project+Builder;React+%2B+TypeScript+Learner;Open+Source+Contributor" />
 </p>
 
 ---
 
-### 🏆 Achievements
-- 🥇 Participated in Google Solution Challenge
-- 💼 Completed 6 internships
-- 🎓 2nd Year B.Tech CSE Student @ Assam down town University
+### 👨‍💻 About Me
+
+- 🔬 I’m currently building **VitalSync** – an AI-powered Healthcare Web App using MERN stack.
+- ⚛️ Learning **React + TypeScript** and exploring **Open Source Contributions**.
+- 💬 Ask me about MERN Stack, Web Dev Projects, or GitHub strategies.
+- 📫 Connect with me on:  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/pragyan2005)  
+  [![Twitter](https://img.shields.io/badge/Twitter-black?style=flat-square&logo=twitter)](https://x.com/myselfpragyan)
 
 ---
 
-### 📬 Let’s Connect
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/YOUR_LINK)
-- Twitter: [@yourhandle](https://twitter.com/YOUR_HANDLE)
+### 🚀 Tech Stack
+
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3" />
+  <img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript" />
+  <img src="https://img.shields.io/badge/TypeScript-blue?style=for-the-badge&logo=typescript" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express" />
+</p>
 
 ---
 
-_Thanks for visiting my profile! 😊_
+### 🌟 Featured Projects
 
+#### 🔹 [VitalSync – AI-Powered Healthcare Platform](https://github.com/Code-master-pragyan/vitalsync)
+> An intelligent web platform that assists users in analyzing symptoms and checking their health status using AI. Built with React, Node.js, MongoDB, and Gemini API.
 
+#### 🔹 [MindMitra – AI Mental Health Chatbot](https://github.com/Code-master-pragyan/mindmitra)
+> Gemini-powered chatbot that supports users with mental health detection and support. Includes voice chat, responsive UI, and intelligent Q&A based on FAQ dataset.
+
+#### 🔹 [Disaster Alert System](https://github.com/Code-master-pragyan/disaster-alert)
+> Web app for real-time fire, earthquake, flood, and cyclone alerts using geofencing and location data.
+
+#### 🔹 [Portfolio Website](https://github.com/Code-master-pragyan/portfolio)
+> My personal developer portfolio site made using HTML, CSS, JavaScript with responsive UI and smooth scroll.
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Code-master-pragyan&theme=react&hide_border=true" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Code-master-pragyan&layout=compact&theme=react&hide_border=true" />
+</p>
+
+---
+
+### 🏁 Current Focus
+- 📘 Improving UI/UX for **VitalSync**
+- 💻 Practicing **TypeScript + React projects**
+- 🌐 Contributing to **Open Source** and Dev Community
+
+---
+
+<p align="center">Thanks for visiting my profile 🙏 Keep coding and building 💻</p>
