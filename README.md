@@ -47,7 +47,7 @@
 #### 🔹 [Disaster Alert System](https://github.com/Code-master-pragyan/disaster-alert)
 > Web app for real-time fire, earthquake, flood, and cyclone alerts using geofencing and location data.
 
-#### 🔹 [Portfolio Website](https://github.com/Code-master-pragyan/portfolio)
+#### 🔹 [Portfolio Website](https://github.com/Code-master-pragyan/portfolio-me)
 > My personal developer portfolio site made using HTML, CSS, JavaScript with responsive UI and smooth scroll.
 
 ---
